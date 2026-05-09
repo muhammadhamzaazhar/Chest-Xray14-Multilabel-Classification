@@ -125,8 +125,8 @@ The full forward pass:
 
 ## Future Directions
 
-- **Medical-domain pretraining** via [TorchXRayVision](https://github.com/mlmed/torchxrayvision) or [RadImageNet](https://www.radimagenet.com/) — typically gives 1–3 AUC points "for free"
-- **Modern backbones** — Vision Transformers, ConvNeXt, EVA-02
+- **Medical-domain pretraining** via [TorchXRayVision](https://github.com/mlmed/torchxrayvision) or [RadImageNet](https://www.radimagenet.com/) - typically gives 1–3 AUC points "for free"
+- **Modern backbones** - Vision Transformers, ConvNeXt, EVA-02
 - **Class-balanced sampling** for ultra-rare diseases (Hernia, Pneumonia)
 - **Bounding-box auxiliary supervision** using NIH BBox annotations
 
